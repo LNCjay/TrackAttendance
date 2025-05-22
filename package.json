@@ -1,21 +1,13 @@
 {
-  "name": "studentattendance",
+  "name": "node",
   "version": "1.0.0",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ivanz8/StudentAttendance.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ivanz8/StudentAttendance/issues"
-  },
-  "homepage": "https://github.com/ivanz8/StudentAttendance#readme",
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
